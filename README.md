@@ -42,8 +42,35 @@ LDA tanpa Gibbs Sampling menghasilkan topik tentang harga produk dengan coherenc
 Hasil menunjukkan Gibbs Sampling meningkatkan stabilitas dan kualitas topik yang terbentuk.
 
 📈 Visualisasi Hasil
+
  Research Flow
 
  <img width="766" height="562" alt="Alur" src="https://github.com/user-attachments/assets/08ee3c78-9d6e-440d-b72b-5c6e258a2b5e" />
+
+ Dataset
+
+ <img width="560" height="139" alt="image" src="https://github.com/user-attachments/assets/b228ac9c-ad8b-4d57-bd15-3d5b0bde183e" />
+
+ Hasil PreProcessing
+
+ <img width="557" height="141" alt="image" src="https://github.com/user-attachments/assets/ea619d0e-eda5-4115-896a-a783bd074a5e" />
+
+ Train LDA 
+
+ <img width="775" height="459" alt="image" src="https://github.com/user-attachments/assets/25568cd2-2024-444c-95eb-db506da1af3c" />
+ <img width="757" height="449" alt="image" src="https://github.com/user-attachments/assets/95a477a4-99dd-404f-bbd5-20e0717d319f" />
+ <img width="676" height="63" alt="image" src="https://github.com/user-attachments/assets/5aae2aeb-5b9c-4d9b-aaff-80b5c4fff2d7" />
+
+ LDA dengan Gibbs Sampling
+
+ <img width="758" height="443" alt="image" src="https://github.com/user-attachments/assets/f3d7cc42-7d47-4f8f-8d8a-c4b3bcfd6476" />
+ <img width="727" height="421" alt="image" src="https://github.com/user-attachments/assets/15c952d7-84cc-433e-918f-793e867091fc" />
+
+
+
+
+
+
+
 
  
